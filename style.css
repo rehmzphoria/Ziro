@@ -1,6 +1,9 @@
 header{
   width: auto;
-  height: 50px;
+  height: 10px;
   background-color: grey;
   font-size: 32pt;
+}
+img{
+  float: left;
 }
